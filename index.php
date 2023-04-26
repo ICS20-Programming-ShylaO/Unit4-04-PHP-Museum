@@ -28,7 +28,8 @@
     <!-- php echo to print the html to the page -->
     <?php
       echo "<h1>Museum Admissions Discount Checker</h1>";
-      echo "<h3>This program will tell you what discounts you are eligible for depending on the age and day of the week.</h3>";
+      echo "<h3>This program will tell you what discounts
+      you are eligible for depending on the age and day of the week.</h3>";
     ?>
     <center>
     <img src="./images/dino_img.jpg" alt="Dinosaur Museum Image" width="25%" height="25%"><br><br>
